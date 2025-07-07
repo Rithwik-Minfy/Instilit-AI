@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Minfy/Documents/Data%20%2B%20AI/Instilit-AI/mlruns/810347540412644531/ed349a6695e74f3799f82f818252dea7/artifacts
+deleted_time: 1751820745564
+end_time: 1751812815239
+entry_point_name: ''
+experiment_id: '810347540412644531'
+lifecycle_stage: deleted
+run_id: ed349a6695e74f3799f82f818252dea7
+run_name: lightgbm
+run_uuid: ed349a6695e74f3799f82f818252dea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751812799990
+status: 3
+tags: []
+user_id: Minfy

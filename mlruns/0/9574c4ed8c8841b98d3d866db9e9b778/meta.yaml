@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9574c4ed8c8841b98d3d866db9e9b778/artifacts
+deleted_time: 1751820721014
+end_time: 1751816487323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9574c4ed8c8841b98d3d866db9e9b778
+run_name: lasso_run
+run_uuid: 9574c4ed8c8841b98d3d866db9e9b778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751816480348
+status: 3
+tags: []
+user_id: Minfy

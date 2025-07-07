@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Minfy/Documents/Data%20%2B%20AI/Instilit-AI/mlruns/810347540412644531/143edc8506cd46cc86a89d690dbd6c54/artifacts
+end_time: 1751820684158
+entry_point_name: ''
+experiment_id: '810347540412644531'
+lifecycle_stage: active
+run_id: 143edc8506cd46cc86a89d690dbd6c54
+run_name: xgboost_run
+run_uuid: 143edc8506cd46cc86a89d690dbd6c54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751820671288
+status: 3
+tags: []
+user_id: Minfy

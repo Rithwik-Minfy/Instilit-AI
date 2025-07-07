@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Minfy/Documents/Data%20%2B%20AI/Instilit-AI/mlruns/810347540412644531/0d210a0ae9574a7c9b14ad040b1bec36/artifacts
+end_time: 1751817881575
+entry_point_name: ''
+experiment_id: '810347540412644531'
+lifecycle_stage: active
+run_id: 0d210a0ae9574a7c9b14ad040b1bec36
+run_name: ridge_run
+run_uuid: 0d210a0ae9574a7c9b14ad040b1bec36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751817869219
+status: 3
+tags: []
+user_id: Minfy

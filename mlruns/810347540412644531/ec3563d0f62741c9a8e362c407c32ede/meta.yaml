@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Minfy/Documents/Data%20%2B%20AI/Instilit-AI/mlruns/810347540412644531/ec3563d0f62741c9a8e362c407c32ede/artifacts
+deleted_time: 1751820745552
+end_time: 1751812790205
+entry_point_name: ''
+experiment_id: '810347540412644531'
+lifecycle_stage: deleted
+run_id: ec3563d0f62741c9a8e362c407c32ede
+run_name: random_forest
+run_uuid: ec3563d0f62741c9a8e362c407c32ede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751811002984
+status: 3
+tags: []
+user_id: Minfy

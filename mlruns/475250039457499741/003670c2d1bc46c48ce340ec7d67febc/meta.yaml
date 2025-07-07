@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Minfy/Documents/Data%20%2B%20AI/Instilit-AI/mlruns/475250039457499741/003670c2d1bc46c48ce340ec7d67febc/artifacts
+deleted_time: 1751857286988
+end_time: 1751856796522
+entry_point_name: ''
+experiment_id: '475250039457499741'
+lifecycle_stage: deleted
+run_id: 003670c2d1bc46c48ce340ec7d67febc
+run_name: Preprocessing and Tuning
+run_uuid: 003670c2d1bc46c48ce340ec7d67febc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751856795124
+status: 4
+tags: []
+user_id: Minfy

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Minfy/Documents/Data%20%2B%20AI/Instilit-AI/mlruns/810347540412644531/e0be6ff832bf448783e7db2b6f92675e/artifacts
+deleted_time: 1751820745549
+end_time: 1751811002957
+entry_point_name: ''
+experiment_id: '810347540412644531'
+lifecycle_stage: deleted
+run_id: e0be6ff832bf448783e7db2b6f92675e
+run_name: lasso
+run_uuid: e0be6ff832bf448783e7db2b6f92675e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751810993727
+status: 3
+tags: []
+user_id: Minfy

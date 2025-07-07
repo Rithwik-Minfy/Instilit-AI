@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1751820700936
+current_stage: Production
+description: ''
+last_updated_timestamp: 1751820701029
+name: InstilitSalaryModel
+run_id: ee33fa61d3f84519a399a37cee2d8d4e
+run_link: ''
+source: file:///C:/Users/Minfy/Documents/Data%20%2B%20AI/Instilit-AI/mlruns/810347540412644531/ee33fa61d3f84519a399a37cee2d8d4e/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Minfy/Documents/Data%20%2B%20AI/Instilit-AI/mlruns/810347540412644531/ee33fa61d3f84519a399a37cee2d8d4e/artifacts/model
+user_id: null
+version: 2

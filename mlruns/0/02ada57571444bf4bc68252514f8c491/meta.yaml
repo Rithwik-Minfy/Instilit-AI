@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/02ada57571444bf4bc68252514f8c491/artifacts
+deleted_time: 1751820721031
+end_time: 1751816480285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 02ada57571444bf4bc68252514f8c491
+run_name: ridge_run
+run_uuid: 02ada57571444bf4bc68252514f8c491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751816468487
+status: 3
+tags: []
+user_id: Minfy

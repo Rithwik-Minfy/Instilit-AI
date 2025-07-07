@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Instilit AI Salary Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f7fa;
+            padding: 30px;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        form {
+            margin-top: 30px;
+        }
+        label {
+            font-weight: bold;
+            display: block;
+            margin-top: 15px;
+        }
+        input[type="text"], input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+        }
+        input[type="submit"] {
+            margin-top: 25px;
+            width: 100%;
+            padding: 12px;
+            background-color: #3498db;
+            border: none;
+            color: white;
+            font-size: 16px;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #2980b9;
+        }
+        .upload-section {
+            margin-top: 50px;
+            border-top: 1px solid #ddd;
+            padding-top: 30px;
+        }
+        a {
+            display: block;
+            text-align: center;
+            margin-top: 15px;
+            color: #2980b9;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Instilit AI Salary Prediction</h1>
+
+        <form action="/predict" method="post">
+            {% for col in input_columns %}
+                <label for="{{ col }}">{{ col.replace('_', ' ').title() }}</label>
+                <input type="text" id="{{ col }}" name="{{ col }}">
+            {% endfor %}
+            <input type="submit" value="Predict Salary">
+        </form>
+
+        <div class="upload-section">
+            <h2>Upload CSV File</h2>
+            <form action="/upload" method="post" enctype="multipart/form-data">
+                <input type="file" name="file" accept=".csv"><br><br>
+                <input type="submit" value="Upload and Predict">
+            </form>
+
+            <a href="/download-template">Download Sample CSV Template</a>
+        </div>
+    </div>
+</body>
+</html>
